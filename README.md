@@ -45,7 +45,7 @@
 ## 📫 Connect With Me
 
 💼 **LinkedIn:** [@riteshpatil4016](https://www.linkedin.com/in/riteshpatil4016)  
-📷 **Instagram:** [@dishkiiyaoonn](https://www.instagram.com/dishkiiyaoonn)
+📷 **Instagram:** [@dishkiiyaoonn](https://www.instagram.com/dishkiiyaoonn)  
 💻 **Portfolio Website:**  *(Coming Soon!)*  
 📧 **Email:** patilritesh4016@gmail.com 
 
