@@ -38,15 +38,15 @@
 🔹 **Movie Genre Classification** - ML model predicting movie genres based on text descriptions.  
 🔹 **Credit Card Fraud Detection** - AI-driven system detecting fraudulent transactions with high accuracy.  
 
-📌 **Explore all my projects here:** [GitHub Repositories](https://github.com/your-github-username)  
+📌 **Explore all my projects here:** [GitHub Repositories](https://github.com/RiteshPatil06)  
 
 ---
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** [linkedin.com/in/ritesh-patil](https://www.linkedin.com/in/ritesh-patil)  
-📷 **Instagram:** [@ritesh.codes](https://www.instagram.com/ritesh.codes)  
-💻 **Portfolio Website:** [riteshpatil.dev](https://riteshpatil.dev) *(Coming Soon!)*  
-📧 **Email:** ritesh.patil@example.com  
+💼 **LinkedIn:** [@riteshpatil4016](https://www.linkedin.com/in/riteshpatil4016)  
+📷 **Instagram:** [@dishkiiyaoonn](https://www.instagram.com/dishkiiyaoonn))  
+💻 **Portfolio Website:**  *(Coming Soon!)*  
+📧 **Email:** patilritesh4016@gmail.com 
 
 🚀 Always open to collaborations, opportunities, and tech discussions!
